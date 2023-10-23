@@ -147,34 +147,4 @@ multiplicative factor (for T) = 2
 WeightedQuickUnionUF running time (in seconds) as a function of n and T:
 
     ~  8.87x10^-7 * n^1.3 * T ^1
-       _______________________________________
-
-
-
-/* *****************************************************************************
- *  Known bugs / limitations.
- **************************************************************************** */
-I know of the backwash problem but I don't think its something I necesarily found in my code.
-The reasoning for this is that the percentage used for the percolation threshold used the number
-of open sites, not the number of filled open sites.
-
-/* *****************************************************************************
- *  Describe whatever help (if any) that you received.
- *  Don't include readings, lectures, and precepts, but do
- *  include any help from people (including course staff, lab TAs,
- *  classmates, and friends) and attribute them by name.
- **************************************************************************** */
-I didn't recieve any outside help from other people.
-
-/* *****************************************************************************
- *  Describe any serious problems you encountered.
- **************************************************************************** */
-I didn't have any serious problems.
-
-/* *****************************************************************************
- *  List any other comments here. Feel free to provide any feedback
- *  on how much you learned from doing the assignment, and whether
- *  you enjoyed doing it.
- **************************************************************************** */
-I am unsure if my tilde notation is correct. I'm unsure if I used the data correctly
-to reach that result.
+      
